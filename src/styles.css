@@ -1,0 +1,19 @@
+.App {
+  font-family: "Lobster", cursive;
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  padding: 0.5rem;
+}
+
+.meaning {
+  font-size: large;
+  font-weight: bold;
+  margin: 0.5rem;
+}
+.emojis {
+  padding: 0.5rem;
+  font-size: large;
+}
