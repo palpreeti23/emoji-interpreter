@@ -1,7 +1,7 @@
 {
   "name": "emoji-interpreter",
   "version": "1.0.0",
-  "description": "reactjs app (emoji interpreter) using codesandbox",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

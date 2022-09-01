@@ -16,4 +16,5 @@ input {
 .emojis {
   padding: 0.5rem;
   font-size: large;
+  cursor: pointer;
 }
